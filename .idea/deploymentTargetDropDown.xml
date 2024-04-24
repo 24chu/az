@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetsSelectedWithDialog>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="6eff5ca7" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetsSelectedWithDialog>
+        </State>
+      </entry>
+      <entry key="所有测试">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="6eff5ca7" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-14T07:56:04.159016500Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
