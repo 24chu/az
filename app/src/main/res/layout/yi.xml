@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/yi_o"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_horizontal"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:shadowColor="@color/black"
+        android:shadowDx="10.0"
+        android:shadowDy="10.0"
+        android:shadowRadius="3.0"
+        android:singleLine="true"
+        android:text="@string/yi_o"
+        android:textColor="#ffff0000"
+        android:textSize="30dp"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
