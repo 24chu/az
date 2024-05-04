@@ -16,7 +16,7 @@
         android:background="#76C179"
         android:orientation="vertical">
 
-        <include layout="@layout/xr" />
+<!--        <include layout="@layout/xr" />-->
 
         <Button
 
